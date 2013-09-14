@@ -1,0 +1,3 @@
+{"ts":1379174210582,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1379174494426,"patch":[[{"diffs":[[1,"<!doctype html>\n<html>\n    <head>\n        <body>\n            <p>Detta är ett svenskt test</p>\n        </body>\n    </head>\n</html>"]],"start1":0,"start2":0,"length1":0,"length2":129}]],"length":129,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1379174916040,"patch":[[{"diffs":[[0," <head>\n"],[1,"        <meta charset=\"utf-8\" />\n             <title>Min första sida</title>\n             \n     \n"],[0,"        "]],"start1":26,"start2":26,"length1":16,"length2":113}]],"length":226,"saved":false}
