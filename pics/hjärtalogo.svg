@@ -1,0 +1,18 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <filter id="svg_16_blur" x="-50%" y="-50%" width="200%" height="200%">
+   <feGaussianBlur stdDeviation="2.8"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <polyline fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" opacity="0.5" points="647,289 " id="svg_9"/>
+  <polyline fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" opacity="0.5" points="635,306 " id="svg_10"/>
+  <polyline fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" opacity="0.5" points="694,291 " id="svg_11"/>
+  <path fill="#ffaad4" stroke="#000000" stroke-width="5" id="svg_12"/>
+  <path fill="#ffaad4" stroke="#000000" stroke-width="5" id="svg_13"/>
+  <path fill="#ffaad4" stroke="#000000" stroke-width="5" id="svg_14"/>
+  <path fill="#ffaad4" stroke-width="5" d="m475.665161,179.965103c29.426758,-67.266624 144.747009,0 0,86.484909c-144.74704,-86.484909 -29.437012,-153.751541 0,-86.484909z" id="svg_16" stroke="#000000" filter="url(#svg_16_blur)"/>
+ </g>
+</svg>
